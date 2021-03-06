@@ -3,7 +3,7 @@
 <!--
 **johnwanjohi/johnwanjohi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hi, I'm [John Wanjohi], a passionate self-taught Full Stack web developer and a freelance software engineer from Kenya. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [John Wanjohi], a passionate self-taught Full Stack web developer and a freelance software engineer from Kenya. My passion for software lies with dreaming up ideas and making them come true with elegant solutions. I take great care in the experience, architecture, and code quality of the applications I build.
 
 I am also an open-source enthusiast and have learnt a lot from open-source communities and I really appreciate how knowledge sharing happens in open-source.
 
@@ -15,6 +15,7 @@ I am also an open-source enthusiast and have learnt a lot from open-source commu
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
