@@ -6,15 +6,6 @@
 Hi, I'm [John Wanjohi], a passionate self-taught Full Stack web developer and a freelance software engineer from Kenya. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and have learnt a lot from open-source communities and I really appreciate how knowledge sharing happens in open-source.
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/johnwanjohi/johnwanjohi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwanjohi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/johnwanjohi/johnwanjohi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnwanjohi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="John Wanjohi's GitHub Stats" />
-</a>
-
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -24,6 +15,7 @@ I am also an open-source enthusiast and have learnt a lot from open-source commu
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Visual-Studio-Code-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
@@ -31,6 +23,15 @@ I am also an open-source enthusiast and have learnt a lot from open-source commu
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/johnwanjohi/johnwanjohi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwanjohi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/johnwanjohi/johnwanjohi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnwanjohi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="John Wanjohi's GitHub Stats" />
+</a>
 
 
 - 🔭 I’m currently working on ...
