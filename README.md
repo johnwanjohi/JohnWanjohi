@@ -5,7 +5,7 @@
 -->
 Hi, I'm [John Wanjohi], a passionate self-taught Full Stack web developer and a freelance software engineer from Kenya. My passion for software lies with dreaming up ideas and making them come true with elegant solutions. I take great care in the user experience, architecture, and code quality of the applications I build.
 
-I am also an open-source enthusiast and have learnt a lot from open-source communities and I really appreciate how knowledge sharing happens in open-source.
+I am also an open-source enthusiast and have learnt a lot from open-source communities and I really appreciate how knowledge sharing flows in open-source.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
